@@ -1,0 +1,31 @@
+﻿
+
+#div{
+    position:absolute;
+    background-color:#efdda0;
+
+}
+#capaPrincipal{
+    background-color:#9d7e7e;
+    width:500px;
+    
+}
+#capaBusqueda{
+    background-color:#ea8181;
+    left:500px;
+    top:20px;
+
+}
+
+#capaIntroducirDatos {
+    background-color:#649486;
+    left: 10px;
+    top: 100px;
+}
+
+#capaVerListado{
+    background-color:#3576bd;
+    left:10px;
+    top:500px;
+
+}

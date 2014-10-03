@@ -57,10 +57,17 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\estilos.css" />
+    <Content Include="CSS\estilosEjercicioAlumnos.css" />
+    <Content Include="documento.html" />
+    <Content Include="EjercicioAlumnos.html" />
     <Content Include="inicio html.html" />
     <Content Include="scripts\arrays.js" />
     <Content Include="scripts\ejercicio1.js" />
     <Content Include="scripts\funciones.js" />
+    <Content Include="scripts\manejoDocumento.js" />
+    <Content Include="scripts\ManejoEjercicioAlumnos.js" />
+    <Content Include="scripts\objetos1.js" />
     <Content Include="scripts\operacionesFunciones.js" />
     <Content Include="scripts\resolucion ejercicio 1 Luis.js" />
     <Content Include="scripts\script1.js" />
